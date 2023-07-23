@@ -16,4 +16,9 @@ class SampleTest {
     void checkF() {
         Sample.f();
     }
+
+    @Test
+    void doINeedToCheckDefaultConstructor() {
+        final var sampleInstance = new Sample();
+    }
 }
