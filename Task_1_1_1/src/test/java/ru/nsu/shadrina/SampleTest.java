@@ -7,8 +7,13 @@ import static org.junit.jupiter.api.Assertions.*;
 class SampleTest {
 
     @Test
-    void sample() {
+    void checkMain() {
         Sample.main(new String[] {});
         assertTrue(true);
+    }
+
+    @Test
+    void checkF() {
+        Sample.f();
     }
 }
