@@ -13,7 +13,7 @@ class SampleTest {
     }
 
     @Test
-    void checkF() {
+    void checkPrinting() {
         Sample.printHelloWorld();
     }
 
