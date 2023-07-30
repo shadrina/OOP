@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ru.nsu.shadrina","c":"Sample","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"ru.nsu.shadrina","c":"Sample","l":"printHelloWorld()"},{"p":"ru.nsu.shadrina","c":"Sample","l":"Sample()","url":"%3Cinit%3E()"}]
