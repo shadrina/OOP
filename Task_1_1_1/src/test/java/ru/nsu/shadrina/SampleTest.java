@@ -14,7 +14,7 @@ class SampleTest {
 
     @Test
     void checkF() {
-        Sample.f();
+        Sample.printHelloWorld();
     }
 
     @Test
